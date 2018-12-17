@@ -1,1 +1,11 @@
 Please save your output images to this folder and include a description in your README of what each image shows.
+
+1. image1 ./output_images/undistorted.jpg  This is an undistorted chessboard.
+2. image2 ./output_images/road_transformed.jpg  This is undistorted road image.
+3. image3 ./output_images/binary_combo.jpg This is an image applied sobel_x + magnitude threshold + LHS color threshold for S.
+4. image4 ./output_images/warp_straight_lines.jpg This is bird eye view
+5. image5 ./output_images/fit_visual.jpg Visual representation of the polynomial fit
+6. image6 ./output_images/example_output.jpg Example output of all prevoius steps combined with original image
+7. video  ./output_images/project_video_output.mp4
+8. video  ./output_images/challenge_video_output.mp4
+9. video  ./output_images/harder_challenge_video_output.mp4
